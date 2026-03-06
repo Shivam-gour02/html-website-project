@@ -40,4 +40,5 @@ html-website-project
 └── contact.html
 
 ## Live Demo
-🔗 Project URL: https://shivam-gour02.github.io/html-website-project/
+
+[View Website](https://shivam-gour02.github.io/html-website-project)
